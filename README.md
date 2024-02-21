@@ -15,7 +15,7 @@ A translation app that takes in English text and translates it to German, with t
 https://sayitingerman.netlify.app/
 
 ## Repositories:
-1. [UI Repository](https://github.com/shantdashjian/say-it-in-german-ui/blob/main/README.md).
+1. [UI Repository](https://github.com/shantdashjian/say-it-in-german-ui).
 2. [API Repository](https://github.com/shantdashjian/say-it-in-german-api).
    
 
