@@ -13,11 +13,11 @@ A translation app that takes in English text and translates it to German, with t
 - [Challenges and Learning Points:](#challenges-and-learning-points)
 
 ## Live Application URL
-[https://sayitingerman.netlify.app/](https://sayitingerman.netlify.app/){:target="_blank"}
+[https://sayitingerman.netlify.app/](https://sayitingerman.netlify.app/)
 
 ## Repositories:
-1. [UI Repository](https://github.com/shantdashjian/say-it-in-german-ui){:target="_blank"}.
-2. [API Repository](https://github.com/shantdashjian/say-it-in-german-api){:target="_blank"}.
+1. [UI Repository](https://github.com/shantdashjian/say-it-in-german-ui).
+2. [API Repository](https://github.com/shantdashjian/say-it-in-german-api).
    
 
 ## How to Use the Application
@@ -42,8 +42,8 @@ A translation app that takes in English text and translates it to German, with t
 1. React for the frontend.
 2. Node.js and Express for the backend.
 3. Firebase Database for persisting the history of translations.
-4. [OpenAI API](https://platform.openai.com/docs/introduction/overview){:target="_blank"} for generating the translation.
-5. [Eleven Labs API](https://elevenlabs.io/docs/api-reference/text-to-speech){:target="_blank"} for generating the TTS (Text to Speech).
+4. [OpenAI API](https://platform.openai.com/docs/introduction/overview) for generating the translation.
+5. [Eleven Labs API](https://elevenlabs.io/docs/api-reference/text-to-speech) for generating the TTS (Text to Speech).
 6. Progressive Web Apps methodology, using site.webmanifest file and icons.
 
 ## Future Features:
