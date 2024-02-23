@@ -13,7 +13,7 @@ A translation app that takes in English text and translates it to German, with t
 - [Challenges and Learning Points:](#challenges-and-learning-points)
 
 ## Live Application URL
-https://sayitingerman.netlify.app/
+[https://sayitingerman.netlify.app/](https://sayitingerman.netlify.app/)
 
 ## Repositories:
 1. [UI Repository](https://github.com/shantdashjian/say-it-in-german-ui).
