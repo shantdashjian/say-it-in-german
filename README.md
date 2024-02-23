@@ -35,7 +35,7 @@ A translation app that takes in English text and translates it to German, with t
 3. There the traveller can see past translations, with the most recent at the top.
 4. The traveller could highlight a transation to mark it as "revisit".
 5. The traveller could delete a translation from history.
-6. The traveller could Go Back Home to the Home page.
+6. The traveller could go back to the Home page.
 
 
 ## Technologies Used
